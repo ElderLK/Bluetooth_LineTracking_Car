@@ -25,7 +25,7 @@
 ## Demonstration
 <div style="width: 400px;">
     <a href="https://res.cloudinary.com/elderlk/video/upload/v1575841720/trackin_line_projeto_two_rqqjhl.mp4"><img src="https://res.cloudinary.com/elderlk/image/upload/v1575841995/trackin_line_projeto_two_gif_knboby.gif" alt="Demonstration"></a>
-<div>
+</div>
 
 ### Photos
 <table style="width:100%">
