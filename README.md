@@ -41,17 +41,19 @@
     </td>
 </tr>
 <tr>
-    <td style="width: 33%; height: auto;
+    <td style="width: 50%; height: auto;
     text-align: center;
     border-color: cadetblue;">
         <img src="https://res.cloudinary.com/elderlk/image/upload/v1575843340/CAR_TL_THREE_pibasz.jpg" alt="" />
     </td>
-    <td style="width: 33%; height: auto;
+    <td style="width: 50%; height: auto;
     text-align: center;
     border-color: cadetblue;">
         <img src="https://res.cloudinary.com/elderlk/image/upload/v1575843340/CAR_TL_FOUR_lltyxt.jpg" alt="" />
     </td>
-        <td style="width: 33%; height: auto;
+</tr>
+<tr>
+    <td colspan="2" style="width: 33%; height: auto;
     text-align: center;
     border-color: cadetblue;">
         <img src="https://res.cloudinary.com/elderlk/image/upload/v1575843340/CAR_TL_FIVE_i69aww.jpg" alt="" />
