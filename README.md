@@ -20,11 +20,11 @@
    - <a href="https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller">App Arduino Bluetooth RC Car</a>
 
 
-![my snake diagram](https://res.cloudinary.com/elderlk/image/upload/v1575238403/Shield_L293D_Car_zkdjf0.png "L293D Diagram")
+![line tracking diagram](https://res.cloudinary.com/elderlk/image/upload/v1575238403/Shield_L293D_Car_zkdjf0.png "L293D Diagram")
 
 
 ## Demonstration
-<a href="https://res.cloudinary.com/elderlk/video/upload/v1572317552/demonstration_tracking_babgy9.mp4"><img src="https://res.cloudinary.com/elderlk/image/upload/v1572317734/demonstration_tracking_pnbjtw.gif" alt="Build Status"></a>
+<a href="https://res.cloudinary.com/elderlk/video/upload/v1575841720/trackin_line_projeto_two_rqqjhl.mp4"><img src="https://res.cloudinary.com/elderlk/image/upload/v1575841995/trackin_line_projeto_two_gif_knboby.gif" alt="Demonstration"></a>
 
 
 ## References
