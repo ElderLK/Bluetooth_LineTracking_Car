@@ -22,13 +22,14 @@
 
 ![line tracking diagram](https://res.cloudinary.com/elderlk/image/upload/v1575238403/Shield_L293D_Car_zkdjf0.png "L293D Diagram")
 
-
 ## Demonstration
-<a href="https://res.cloudinary.com/elderlk/video/upload/v1575841720/trackin_line_projeto_two_rqqjhl.mp4"><img src="https://res.cloudinary.com/elderlk/image/upload/v1575841995/trackin_line_projeto_two_gif_knboby.gif" alt="Demonstration"></a>
+<div style="width: 400px;">
+    <a href="https://res.cloudinary.com/elderlk/video/upload/v1575841720/trackin_line_projeto_two_rqqjhl.mp4"><img src="https://res.cloudinary.com/elderlk/image/upload/v1575841995/trackin_line_projeto_two_gif_knboby.gif" alt="Demonstration"></a>
+<div>
 
 ### Photos
 <table style="width:100%">
-<tr>
+<tr style="text-align: center;">
     <td style="width: 50%; height: auto;
     text-align: center;
     border-color: cadetblue;">
@@ -40,7 +41,7 @@
         <img src="https://res.cloudinary.com/elderlk/image/upload/v1575843340/CAR_TL_TWO_m0snya.jpg" alt="" />
     </td>
 </tr>
-<tr>
+<tr style="text-align: center;">
     <td style="width: 50%; height: auto;
     text-align: center;
     border-color: cadetblue;">
@@ -52,8 +53,8 @@
         <img src="https://res.cloudinary.com/elderlk/image/upload/v1575843340/CAR_TL_FOUR_lltyxt.jpg" alt="" />
     </td>
 </tr>
-<tr>
-    <td colspan="2" style="width: 33%; height: auto;
+<tr style="text-align: center;">
+    <td colspan="2" style="width: 100%; height: 450px;
     text-align: center;
     border-color: cadetblue;">
         <img src="https://res.cloudinary.com/elderlk/image/upload/v1575843340/CAR_TL_FIVE_i69aww.jpg" alt="" />
