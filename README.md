@@ -23,8 +23,8 @@
 ![line tracking diagram](https://res.cloudinary.com/elderlk/image/upload/v1575238403/Shield_L293D_Car_zkdjf0.png "L293D Diagram")
 
 ## Demonstration
-<div style="width: 400px; max-height: 250px; transform: rotate(90deg) translateY(-100%);
-transform-origin: top left;">
+### Click to open de full video
+<div style="width: 400px; max-height: 250px;">
     <a href="https://res.cloudinary.com/elderlk/video/upload/v1575841720/trackin_line_projeto_two_rqqjhl.mp4"><img src="https://res.cloudinary.com/elderlk/image/upload/v1575841995/trackin_line_projeto_two_gif_knboby.gif" alt="Demonstration"></a>
 </div>
 
